@@ -32,15 +32,6 @@
 ![website](https://github.com/Manav-SM/Metrics/blob/master/website.svg)
   
   </details>
- <details>
- <summary>The other one</summary>
-
-   <details>
-   <summary>Ok, try this</summary>
-   You got me 😂
-   </details>
- </details>
-
 </details>
 
 <!--
