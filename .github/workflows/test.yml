@@ -4,14 +4,14 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  # Schedule updates (every 8 hours daily)
+  push:
+    branches: [ master ]
+  workflow_dispatch:
   schedule:
     - cron: '0 0,8,16 * * *'
   # Lines below let you run workflow manually and on each commit
   # workflow_dispatch:
   # push: {branches: ["master", "main"]}
-  push:
-    branches: [ master ]
   pull_request:
     branches: [ master ]
 
@@ -25,6 +25,15 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+      
+      - name: Commit and push if changed
+        run: |
+            git diff
+            git config --global user.email "actions@users.noreply.github.com"
+            git config --global user.name "README-bot"
+            git add -A
+            git commit -m "Updated readme" || exit 0
+            git push
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
