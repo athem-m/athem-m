@@ -32,6 +32,12 @@
 ![website](https://github.com/Manav-SM/Metrics/blob/master/website.svg)
   
   </details>
+  <details>
+  <summary><h3>Star Metrics</h2></summary>
+  
+![star metrics](https://github.com/Manav-SM/Metrics/blob/master/metrics.plugin.starlists.languages.svg))
+  
+  </details>
 </details>
 
 <!--
