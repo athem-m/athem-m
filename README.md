@@ -1,44 +1,6 @@
 # Hi there 👋
 
 
-<details>
-  <summary><h2>Github Metrics</h2></summary>
-
-<details>
-  <summary><h3>Habit</h2></summary>
-  
-![habit](https://github.com/Manav-SM/Metrics/blob/master/habit.svg)
-  
-  </details>
-  
-  <details>
-  <summary><h3>Languages</h2></summary>
-  
-![language](https://github.com/Manav-SM/Metrics/blob/master/languages.svg)
-    
-  </details>
-  
-  
-  <details>
-  <summary><h3>Achievements</h2></summary>
-  
-![achievements](https://github.com/Manav-SM/Metrics/blob/master/achievements.svg)
-  
-  </details>
-  
-  <details>
-  <summary><h3>Website</h2></summary>
-  
-![website](https://github.com/Manav-SM/Metrics/blob/master/website.svg)
-  
-  </details>
-  <details>
-  <summary><h3>Star Metrics</h2></summary>
-  
-![star metrics](https://github.com/Manav-SM/Metrics/blob/master/metrics.plugin.starlists.languages.svg))
-  
-  </details>
-</details>
 
 <!--
 ![achievements](https://github.com/Manav-SM/Metrics/blob/master/achievements.svg)
