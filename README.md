@@ -1,13 +1,16 @@
 # Hi there 👋
 
+![KittenCatGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9)  
+
+
+Powered by ☕and 🍺.
+
 <!--
+![CatFunnyGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/fdddc38a-ec83-4fa3-bacf-2a2fe23bdb6b)
 ![CatTypingGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/8b71849c-5c91-4327-b9e0-bc9dc7433920)
 ![DogFunnyGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/3ac4bc17-5897-4dc5-9520-e4668fc5fe35)
--->
-
 ![KittenCatGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9)
-
-
+-->
 <!--
 ![achievements](https://github.com/Manav-SM/Metrics/blob/master/achievements.svg)
 ![habit](https://github.com/Manav-SM/Metrics/blob/master/habit.svg)
