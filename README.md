@@ -1,9 +1,47 @@
-# Hi there 👋
+# Hello there 👋
 
 ![KittenCatGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9)  
 
+Powered by ☕, 🍺 and memes.
 
-Powered by ☕and 🍺.
+# This page is incomplete.
+
+## About ME
+I'm Manav, a software engineer. 
+
+## ⌨️ Skills
+
+- Skills Category 1
+  - Skills
+
+- Skills Category 2
+  - Skills
+
+- Skills Category 3
+  - Skills
+
+- Skills Category 4
+  - Skills
+
+## 💻 Projects
+
+- Project 1
+  - Tech Stack
+  - Description
+
+- Project 2
+  - Tech Stack
+  - Description
+
+- Project 3
+  - Tech Stack
+  - Description
+
+- Project 4
+  - Tech Stack
+  - Description
+
+---
 
 <!--
 ![CatFunnyGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/fdddc38a-ec83-4fa3-bacf-2a2fe23bdb6b)
