@@ -9,6 +9,7 @@ Powered by ☕, 🍺 and memes.
 ## About ME
 I'm Manav, a software engineer. 
 
+<!--
 ## ⌨️ Skills
 
 - Skills Category 1
@@ -42,6 +43,7 @@ I'm Manav, a software engineer.
   - Description
 
 ---
+-->
 
 <!--
 ![CatFunnyGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/fdddc38a-ec83-4fa3-bacf-2a2fe23bdb6b)
