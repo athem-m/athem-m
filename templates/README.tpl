@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-{{with repo "muesli" "markscribe"}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}}
-Stars: {{.Stargazers}}
-Is Private: {{.IsPrivate}}
-Last Git Tag: {{.LastRelease.TagName}}
-Last Release: {{humanize .LastRelease.PublishedAt}}
-{{end}}
-
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
