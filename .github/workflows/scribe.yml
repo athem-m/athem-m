@@ -21,7 +21,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         env:
-          GITHUB_TOKEN: ${{ secrets.SCIBE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
           branch: master
