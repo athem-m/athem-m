@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+{{with repo "muesli" "markscribe"}}
+Name: {{.Name}}
+Description: {{.Description}}
+URL: {{.URL}}
+Stars: {{.Stargazers}}
+Is Private: {{.IsPrivate}}
+Last Git Tag: {{.LastRelease.TagName}}
+Last Release: {{humanize .LastRelease.PublishedAt}}
+{{end}}
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -16,24 +26,47 @@
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+{{range recentContributions 10}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}})
+Occurred: {{humanize .OccurredAt}}
+{{end}}
 
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+Title: {{.Title}}
+URL: {{.URL}}
+State: {{.State}}
+CreatedAt: {{humanize .CreatedAt}}
+Repository name: {{.Repo.Name}}
+Repository description: {{.Repo.Description}}
+Repository URL: {{.Repo.URL}}
+{{end}}
+
+#### 🍴 My recent Forks
+{{range gists 10}}
+Name: {{.Name}}
+Description: {{.Description}}
+URL: {{.URL}}
+Created: {{humanize .CreatedAt}}
+{{end}}
 
 #### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{range gists 10}}
+Name: {{.Name}}
+Description: {{.Description}}
+URL: {{.URL}}
+Created: {{humanize .CreatedAt}}
+{{end}}
 
 #### ⭐ Recent Stars
 {{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}})
+Stars: {{.Repo.Stargazers}}
+{{end}}
 
 
 #### 💬 Feedback
