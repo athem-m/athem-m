@@ -1,58 +1,54 @@
 ### Hi there 👋
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 5}}
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### 🍴 My recent forks
+{{range recentForks 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentContributions 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
-{{end}}
+{{range recentReleases 10}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
 
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
-Title: {{.Title}}
-URL: {{.URL}}
-State: {{.State}}
-CreatedAt: {{humanize .CreatedAt}}
-Repository name: {{.Repo.Name}}
-Repository description: {{.Repo.Description}}
-Repository URL: {{.Repo.URL}}
-{{end}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
-#### 🍴 My recent Forks
-{{range gists 10}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}}
-Created: {{humanize .CreatedAt}}
-{{end}}
+#### 📜 My recent blog posts
+{{range rss "https://.../posts/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 
 #### 📓 Gists I wrote
-{{range gists 10}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}}
-Created: {{humanize .CreatedAt}}
-{{end}}
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
 #### ⭐ Recent Stars
 {{range recentStars 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Stars: {{.Repo.Stargazers}}
-{{end}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
 
+#### ❤️ These awesome people sponsor me (thank you!)
+{{range sponsors 5}}
+- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### 👯 Check out some of my recent followers
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
 
 #### 💬 Feedback
 
