@@ -10,11 +10,6 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🍴 My recent forks
-{{range recentForks 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 #### 🔭 Latest releases I've contributed to
 {{range recentContributions 10}}
 Name: {{.Repo.Name}}
