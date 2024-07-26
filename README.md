@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![KittenCatGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9)  
+
+
 #### 👷 Check out what I'm currently working on
 
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (5 days ago)
@@ -20,11 +23,6 @@
 - [athem-m/Projects](https://github.com/athem-m/Projects) - List of my Projects
 - [athem-m/Disney-Content-Analysis](https://github.com/athem-m/Disney-Content-Analysis) - Disney&#43; Content Analysis from Kaggle
 - [athem-m/Practice-Data-Sets](https://github.com/athem-m/Practice-Data-Sets) - Practice Data Sets given by a friend for Data analysis
-- [athem-m/MOOC-DAPYthon](https://github.com/athem-m/MOOC-DAPYthon) - 
-- [athem-m/Alpine](https://github.com/athem-m/Alpine) - The minimalist blog theme, powered by Nuxt.
-- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) - Personal Resume generated using LaTeX and Github actions
-- [athem-m/Website-Discussions](https://github.com/athem-m/Website-Discussions) - Reposiory for personal website discussions
-- [athem-m/FirstBot](https://github.com/athem-m/FirstBot) - My first discord bot
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,15 +35,10 @@
 - [added svelte resources](https://github.com/developersIndia/resources/pull/35) on [developersIndia/resources](https://github.com/developersIndia/resources) (2 years ago)
 - [added .eslintignore and .prettierignore](https://github.com/developersIndia/website/pull/77) on [developersIndia/website](https://github.com/developersIndia/website) (2 years ago)
 - [Added support for Tailwind CSS](https://github.com/developersIndia/website/pull/70) on [developersIndia/website](https://github.com/developersIndia/website) (2 years ago)
-- [Merge pull request #19 from Manav-SM/master](https://github.com/athem-m/tailwind-nextjs-portfolio/pull/20) on [athem-m/tailwind-nextjs-portfolio](https://github.com/athem-m/tailwind-nextjs-portfolio) (2 years ago)
-- [pull request](https://github.com/athem-m/tailwind-nextjs-portfolio/pull/19) on [athem-m/tailwind-nextjs-portfolio](https://github.com/athem-m/tailwind-nextjs-portfolio) (2 years ago)
-- [Dev](https://github.com/athem-m/tailwind-nextjs-portfolio/pull/15) on [athem-m/tailwind-nextjs-portfolio](https://github.com/athem-m/tailwind-nextjs-portfolio) (2 years ago)
 
 #### 📓 Gists I wrote
 
 - [Complete list of github markdown emoji markup](https://gist.github.com/3b8d8fd538581d12f435e809166c1cce) (2 years ago)
-- [List of my VS Code extensions](https://gist.github.com/cedd9dda8e27d260e7c5636292773502) (3 years ago)
-- [First Gist](https://gist.github.com/d6e1f480c38fa22151ab88207f297ba1) (3 years ago)
 
 #### ⭐ Recent Stars
 
@@ -60,14 +53,6 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories. (2 years ago)
 - [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers (2 years ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
-
-
-#### 👯 Check out some of my recent followers
-
-- [rohit-1012](https://github.com/rohit-1012)
-- [ron-debajyoti](https://github.com/ron-debajyoti)
-- [axsddlr](https://github.com/axsddlr)
 
 #### 💬 Feedback
 
