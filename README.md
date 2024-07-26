@@ -10,11 +10,6 @@
 - [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) - Personal Resume generated using LaTeX and Github actions (2 months ago)
 - [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book (2 months ago)
 - [athem-m/Disney-Content-Analysis](https://github.com/athem-m/Disney-Content-Analysis) - Disney&#43; Content Analysis from Kaggle (2 months ago)
-- [athem-m/weather_rust_cli](https://github.com/athem-m/weather_rust_cli) -  (2 months ago)
-- [athem-m/Practice-Data-Sets](https://github.com/athem-m/Practice-Data-Sets) - Practice Data Sets given by a friend for Data analysis (3 months ago)
-- [athem-m/MOOC-DAPYthon](https://github.com/athem-m/MOOC-DAPYthon) -  (5 months ago)
-- [athem-m/Alpine](https://github.com/athem-m/Alpine) - The minimalist blog theme, powered by Nuxt. (8 months ago)
-- [PR4X15/DataTalks-ML-Zoomcamp-HW](https://github.com/PR4X15/DataTalks-ML-Zoomcamp-HW) - Homework Assignments (10 months ago)
 
 #### 🌱 My latest projects
 
