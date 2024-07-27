@@ -5,7 +5,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (5 days ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (6 days ago)
 - [athem-m/Projects](https://github.com/athem-m/Projects) - List of my Projects (1 month ago)
 - [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) - Personal Resume generated using LaTeX and Github actions (2 months ago)
 - [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book (2 months ago)
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent Stars
 
-- [bpmn-io/bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 specification compliant token simulator. (today)
+- [bpmn-io/bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 specification compliant token simulator. (1 day ago)
 - [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months! (10 months ago)
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (11 months ago)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (11 months ago)
