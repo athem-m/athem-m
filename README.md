@@ -2,8 +2,6 @@
 
 <img align="right" src="assets/cat.gif" width="240">
 
-
-
 Work in Progress
 
 1. **Lorem ipsum dolor sit amet, consectetur adipiscing elit.** Duis vehicula urna et nisi fermentum, ut laoreet magna vestibulum.
