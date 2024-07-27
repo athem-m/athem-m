@@ -2,9 +2,7 @@
 
 <img align="right" src="https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9" width="360">
 
-
-
-Work in Progress
+Profile is a work in Progress
 
 1. **Lorem ipsum dolor sit amet, consectetur adipiscing elit.** Duis vehicula urna et nisi fermentum, ut laoreet magna vestibulum.
 
