@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="assets/cat.gif" width="300">
+<img align="right" src="assets/cat.gif" width="240">
 
 <!---
 ![KittenCatGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9)  
