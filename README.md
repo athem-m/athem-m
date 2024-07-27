@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="assets/cat.gif" width="360">
+<img align="right" src="assets/cat.gif" width="300">
 
 
 
