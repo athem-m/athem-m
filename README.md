@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-### Profile Work In Progress
+![KittenCatGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9)  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<!---
-![KittenCatGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9)
--->
-
-<img align="right" src="https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9" width="360">
 
 #### 👷 Check out what I'm currently working on
 
@@ -21,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### 🌱 My latest projects
 
 - [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book
-- [athem-m/weather_rust_cli](https://github.com/athem-m/weather_rust_cli) - 
+- [athem-m/weather_rust_cli](https://github.com/athem-m/weather_rust_cli) - Weather CLI based on Openweather API built on Rust
 - [athem-m/Projects](https://github.com/athem-m/Projects) - List of my Projects
 - [athem-m/Disney-Content-Analysis](https://github.com/athem-m/Disney-Content-Analysis) - Disney&#43; Content Analysis from Kaggle
 - [athem-m/Practice-Data-Sets](https://github.com/athem-m/Practice-Data-Sets) - Practice Data Sets given by a friend for Data analysis
