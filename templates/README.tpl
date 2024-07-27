@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-<img align="right" src="assets/cat.gif" width="240">
-
+<img align="right" src="assets/cat.gif" width="260">
 <!---
 ![KittenCatGIF](https://github.com/darth-mnv/darth-mnv/assets/18483618/115903c7-8f0c-4aca-8919-4db2322818e9)  
 -->
-
 Work in Progress
 
 1. **Lorem ipsum dolor sit amet, consectetur adipiscing elit.** Duis vehicula urna et nisi fermentum, ut laoreet magna vestibulum.
