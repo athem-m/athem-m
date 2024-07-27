@@ -16,9 +16,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
+- [athem-m/Alpine](https://github.com/athem-m/Alpine) - The minimalist blog theme, powered by Nuxt. (today)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (6 days ago)
 - [athem-m/Projects](https://github.com/athem-m/Projects) - List of my Projects (1 month ago)
-- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) - Personal Resume generated using LaTeX and Github actions (2 months ago)
 
 #### 🌱 My latest projects
 
