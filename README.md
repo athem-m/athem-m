@@ -16,9 +16,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/Alpine](https://github.com/athem-m/Alpine) - The minimalist blog theme, powered by Nuxt. (1 day ago)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (1 week ago)
 - [athem-m/Projects](https://github.com/athem-m/Projects) - List of my Projects (1 month ago)
+- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) - Personal Resume generated using LaTeX and Github actions (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,8 +33,8 @@ Work in Progress
 #### 🔨 My recent Pull Requests
 
 - [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (1 week ago)
-- [Dev](https://github.com/athem-m/Alpine/pull/3) on [athem-m/Alpine](https://github.com/athem-m/Alpine) (8 months ago)
 - [added svelte resources](https://github.com/developersIndia/resources/pull/35) on [developersIndia/resources](https://github.com/developersIndia/resources) (2 years ago)
+- [added .eslintignore and .prettierignore](https://github.com/developersIndia/website/pull/77) on [developersIndia/website](https://github.com/developersIndia/website) (2 years ago)
 
 #### 📓 Gists I wrote
 
