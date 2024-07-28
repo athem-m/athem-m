@@ -16,8 +16,8 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/Alpine](https://github.com/athem-m/Alpine) - The minimalist blog theme, powered by Nuxt. (today)
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (6 days ago)
+- [athem-m/Alpine](https://github.com/athem-m/Alpine) - The minimalist blog theme, powered by Nuxt. (1 day ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (1 week ago)
 - [athem-m/Projects](https://github.com/athem-m/Projects) - List of my Projects (1 month ago)
 
 #### 🌱 My latest projects
@@ -38,14 +38,14 @@ Work in Progress
 
 #### 📓 Gists I wrote
 
-- [Gist to create a Astro project with Tasfile, TailwindCSS, Prettier, ESLine and Typescript](https://gist.github.com/fdedf6b38456039456aa7a9e77d304f4) (today)
+- [Gist to create a Astro project with Tasfile, TailwindCSS, Prettier, ESLine and Typescript](https://gist.github.com/fdedf6b38456039456aa7a9e77d304f4) (1 day ago)
 - [Complete list of github markdown emoji markup](https://gist.github.com/3b8d8fd538581d12f435e809166c1cce) (2 years ago)
 - [List of my VS Code extensions](https://gist.github.com/cedd9dda8e27d260e7c5636292773502) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [bpmn-io/bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 specification compliant token simulator. (1 day ago)
-- [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months! (10 months ago)
+- [bpmn-io/bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 specification compliant token simulator. (2 days ago)
+- [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months! (11 months ago)
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (11 months ago)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (11 months ago)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (11 months ago)
