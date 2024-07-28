@@ -28,7 +28,7 @@ Work in Progress
 
 #### 🔭 Latest releases I've contributed to
 
-- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([15052024](https://github.com/athem-m/Personal-Resume/releases/tag/15052024), 2 months ago) - Personal Resume generated using LaTeX and Github actions
+- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([28072024](https://github.com/athem-m/Personal-Resume/releases/tag/28072024), today) - Personal Resume generated using LaTeX and Github actions
 
 #### 🔨 My recent Pull Requests
 
