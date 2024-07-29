@@ -53,10 +53,11 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
+- Linkedin: [linkedin.com/in/athem-m/](https://www.linkedin.com/in/athem-m/)
+<!---
 - Fediverse: https://mastodon.social/@...
 - Blog: https://...
-
+-->
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
 <!-- comments will be preserved -->
