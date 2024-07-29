@@ -16,15 +16,15 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
+- [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (today)
+- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (today)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (1 week ago)
-- [athem-m/Projects](https://github.com/athem-m/Projects) - List of my Projects (1 month ago)
-- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) - Personal Resume generated using LaTeX and Github actions (2 months ago)
 
 #### 🌱 My latest projects
 
+- [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects
 - [athem-m/astro-template](https://github.com/athem-m/astro-template) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint.
 - [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book
-- [athem-m/weather_rust_cli](https://github.com/athem-m/weather_rust_cli) - Weather CLI based on Openweather API built on Rust
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,11 +57,9 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Linkedin: [linkedin.com/in/athem-m](https://www.linkedin.com/in/athem-m/)
-<!---
+- Twitter: https://twitter.com/...
 - Fediverse: https://mastodon.social/@...
 - Blog: https://...
--->
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
