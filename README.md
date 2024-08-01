@@ -16,9 +16,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/astro-template](https://github.com/athem-m/astro-template) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint. (today)
-- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (2 days ago)
-- [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (2 days ago)
+- [athem-m/astro-template](https://github.com/athem-m/astro-template) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint. (1 day ago)
+- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (3 days ago)
+- [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,24 +28,24 @@ Work in Progress
 
 #### 🔭 Latest releases I've contributed to
 
-- [athem-m/astro-template](https://github.com/athem-m/astro-template) ([v1.00](https://github.com/athem-m/astro-template/releases/tag/v1.00), 1 day ago) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint.
-- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([28072024](https://github.com/athem-m/Personal-Resume/releases/tag/28072024), 3 days ago) - Personal Resume generated using LaTeX and Github actions
+- [athem-m/astro-template](https://github.com/athem-m/astro-template) ([v1.00](https://github.com/athem-m/astro-template/releases/tag/v1.00), 2 days ago) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint.
+- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([28072024](https://github.com/athem-m/Personal-Resume/releases/tag/28072024), 4 days ago) - Personal Resume generated using LaTeX and Github actions
 
 #### 🔨 My recent Pull Requests
 
-- [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (1 week ago)
+- [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (2 weeks ago)
 - [added svelte resources](https://github.com/developersIndia/resources/pull/35) on [developersIndia/resources](https://github.com/developersIndia/resources) (2 years ago)
 - [added .eslintignore and .prettierignore](https://github.com/developersIndia/website/pull/77) on [developersIndia/website](https://github.com/developersIndia/website) (2 years ago)
 
 #### 📓 Gists I wrote
 
-- [Gist to create a Astro project with Tasfile, TailwindCSS, Prettier, ESLine and Typescript](https://gist.github.com/fdedf6b38456039456aa7a9e77d304f4) (4 days ago)
+- [Gist to create a Astro project with Tasfile, TailwindCSS, Prettier, ESLine and Typescript](https://gist.github.com/fdedf6b38456039456aa7a9e77d304f4) (5 days ago)
 - [Complete list of github markdown emoji markup](https://gist.github.com/3b8d8fd538581d12f435e809166c1cce) (2 years ago)
 - [List of my VS Code extensions](https://gist.github.com/cedd9dda8e27d260e7c5636292773502) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [bpmn-io/bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 specification compliant token simulator. (5 days ago)
+- [bpmn-io/bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 specification compliant token simulator. (6 days ago)
 - [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months! (11 months ago)
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. (11 months ago)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (11 months ago)
