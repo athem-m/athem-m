@@ -16,9 +16,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/astro-template](https://github.com/athem-m/astro-template) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint. (3 days ago)
-- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (5 days ago)
+- [athem-m/astro-template](https://github.com/athem-m/astro-template) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint. (today)
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (5 days ago)
+- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (5 days ago)
 
 #### 🌱 My latest projects
 
