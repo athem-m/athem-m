@@ -39,7 +39,7 @@ Work in Progress
 
 #### 📓 Gists I wrote
 
-- [Complete list of github markdown emoji markup](https://gist.github.com/3b8d8fd538581d12f435e809166c1cce) (2 years ago)
+- [Complete list of github markdown emoji markup](https://gist.github.com/3b8d8fd538581d12f435e809166c1cce) (3 years ago)
 - [List of my VS Code extensions](https://gist.github.com/cedd9dda8e27d260e7c5636292773502) (3 years ago)
 - [First Gist](https://gist.github.com/d6e1f480c38fa22151ab88207f297ba1) (3 years ago)
 
