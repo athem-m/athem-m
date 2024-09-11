@@ -28,8 +28,8 @@ Work in Progress
 
 #### 🔭 Latest releases I've contributed to
 
+- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([11092024](https://github.com/athem-m/Personal-Resume/releases/tag/11092024), today) - Personal Resume generated using LaTeX and Github actions
 - [athem-m/astro-template](https://github.com/athem-m/astro-template) ([v1.00](https://github.com/athem-m/astro-template/releases/tag/v1.00), 1 month ago) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint.
-- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([28072024](https://github.com/athem-m/Personal-Resume/releases/tag/28072024), 1 month ago) - Personal Resume generated using LaTeX and Github actions
 
 #### 🔨 My recent Pull Requests
 
