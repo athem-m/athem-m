@@ -28,12 +28,12 @@ Work in Progress
 
 #### 🔭 Latest releases I've contributed to
 
-- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([12092024](https://github.com/athem-m/Personal-Resume/releases/tag/12092024), 3 days ago) - Personal Resume generated using LaTeX and Github actions
+- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([12092024](https://github.com/athem-m/Personal-Resume/releases/tag/12092024), 4 days ago) - Personal Resume generated using LaTeX and Github actions
 - [athem-m/astro-template](https://github.com/athem-m/astro-template) ([v1.00](https://github.com/athem-m/astro-template/releases/tag/v1.00), 1 month ago) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (1 month ago)
+- [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (2 months ago)
 - [added svelte resources](https://github.com/developersIndia/resources/pull/35) on [developersIndia/resources](https://github.com/developersIndia/resources) (2 years ago)
 - [added .eslintignore and .prettierignore](https://github.com/developersIndia/website/pull/77) on [developersIndia/website](https://github.com/developersIndia/website) (2 years ago)
 
