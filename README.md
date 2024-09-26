@@ -16,7 +16,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/astro-template](https://github.com/athem-m/astro-template) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint. (6 days ago)
+- [athem-m/astro-template](https://github.com/athem-m/astro-template) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint. (1 week ago)
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (1 month ago)
 - [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (1 month ago)
 
@@ -28,7 +28,7 @@ Work in Progress
 
 #### 🔭 Latest releases I've contributed to
 
-- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([12092024](https://github.com/athem-m/Personal-Resume/releases/tag/12092024), 1 week ago) - Personal Resume generated using LaTeX and Github actions
+- [athem-m/Personal-Resume](https://github.com/athem-m/Personal-Resume) ([12092024](https://github.com/athem-m/Personal-Resume/releases/tag/12092024), 2 weeks ago) - Personal Resume generated using LaTeX and Github actions
 - [athem-m/astro-template](https://github.com/athem-m/astro-template) ([v1.00](https://github.com/athem-m/astro-template/releases/tag/v1.00), 1 month ago) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint.
 
 #### 🔨 My recent Pull Requests
