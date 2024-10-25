@@ -16,19 +16,18 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/astro-template](https://github.com/athem-m/astro-template) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint. (1 month ago)
 - [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (2 months ago)
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (2 months ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (3 months ago)
 
 #### 🌱 My latest projects
 
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects
-- [athem-m/astro-template](https://github.com/athem-m/astro-template) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint.
 - [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book
+- [athem-m/weather_rust_cli](https://github.com/athem-m/weather_rust_cli) - Weather CLI based on Openweather API built on Rust
 
 #### 🔭 Latest releases I've contributed to
 
-- [athem-m/astro-template](https://github.com/athem-m/astro-template) ([v1.00](https://github.com/athem-m/astro-template/releases/tag/v1.00), 2 months ago) - Astro template using taskfile, typscript, tailwindcss, prettier and eslint.
 
 #### 🔨 My recent Pull Requests
 
