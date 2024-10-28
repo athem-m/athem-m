@@ -43,10 +43,10 @@ Work in Progress
 
 #### ⭐ Recent Stars
 
-- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 days ago)
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (2 days ago)
+- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (3 days ago)
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (3 days ago)
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites (2 months ago)
 
 
