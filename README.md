@@ -31,7 +31,7 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [chore: replaced dead link in spec-sheet.md](https://github.com/Weburz/repoforge/pull/6) on [Weburz/repoforge](https://github.com/Weburz/repoforge) (3 weeks ago)
+- [chore: replaced dead link in spec-sheet.md](https://github.com/Weburz/repoforge/pull/6) on [Weburz/repoforge](https://github.com/Weburz/repoforge) (4 weeks ago)
 - [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (3 months ago)
 - [added svelte resources](https://github.com/developersIndia/resources/pull/35) on [developersIndia/resources](https://github.com/developersIndia/resources) (2 years ago)
 
