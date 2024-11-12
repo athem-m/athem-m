@@ -16,7 +16,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/Notes](https://github.com/athem-m/Notes) - Personal notes taken in Obsidian (4 days ago)
+- [athem-m/Notes](https://github.com/athem-m/Notes) - Personal notes taken in Obsidian (5 days ago)
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (3 months ago)
 - [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (3 months ago)
 
