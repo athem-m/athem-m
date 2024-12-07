@@ -16,7 +16,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/Notes](https://github.com/athem-m/Notes) - Personal notes taken in Obsidian (4 weeks ago)
+- [athem-m/Notes](https://github.com/athem-m/Notes) - Personal notes taken in Obsidian (1 month ago)
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (4 months ago)
 - [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (4 months ago)
 
@@ -30,7 +30,7 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [chore: replaced dead link in spec-sheet.md](https://github.com/Weburz/terox/pull/6) on [Weburz/terox](https://github.com/Weburz/terox) (1 month ago)
+- [chore: replaced dead link in spec-sheet.md](https://github.com/Weburz/terox/pull/6) on [Weburz/terox](https://github.com/Weburz/terox) (2 months ago)
 - [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (4 months ago)
 - [added svelte resources](https://github.com/developersIndia/resources/pull/35) on [developersIndia/resources](https://github.com/developersIndia/resources) (2 years ago)
 
