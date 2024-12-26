@@ -16,8 +16,8 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (4 months ago)
-- [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (4 months ago)
+- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (5 months ago)
+- [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (5 months ago)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (5 months ago)
 
 #### 🌱 My latest projects
