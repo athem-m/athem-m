@@ -31,7 +31,7 @@ Work in Progress
 #### 🔨 My recent Pull Requests
 
 - [chore: replaced dead link in spec-sheet.md](https://github.com/Weburz/terox/pull/6) on [Weburz/terox](https://github.com/Weburz/terox) (4 months ago)
-- [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (6 months ago)
+- [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (7 months ago)
 - [added svelte resources](https://github.com/developersIndia/resources/pull/35) on [developersIndia/resources](https://github.com/developersIndia/resources) (3 years ago)
 
 #### 📓 Gists I wrote
