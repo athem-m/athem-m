@@ -24,7 +24,7 @@ Work in Progress
 
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects
 - [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book
-- [athem-m/weather_rust_cli](https://github.com/athem-m/weather_rust_cli) - Weather CLI based on Openweather API built on Rust
+- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo
 
 
 
