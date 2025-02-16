@@ -18,7 +18,7 @@ Work in Progress
 
 - [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (6 months ago)
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (6 months ago)
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (6 months ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -42,9 +42,9 @@ Work in Progress
 
 #### ⭐ Recent Stars
 
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 day ago)
-- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 day ago)
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A minimal CMS, purposefully built specifically for blogging needs (1 day ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 days ago)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 days ago)
+- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A minimal CMS, purposefully built specifically for blogging needs (2 days ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (3 months ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (3 months ago)
 
