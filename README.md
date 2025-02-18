@@ -16,9 +16,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo (6 months ago)
-- [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (6 months ago)
-- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (7 months ago)
+- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (today)
+- [PR4X15/.github](https://github.com/PR4X15/.github) - Description (today)
+- [PR4X15/go_calc](https://github.com/PR4X15/go_calc) - Simple go calculator app (today)
 
 #### 🌱 My latest projects
 
