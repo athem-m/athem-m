@@ -16,9 +16,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (1 day ago)
-- [PR4X15/.github](https://github.com/PR4X15/.github) - Description (1 day ago)
-- [PR4X15/go_calc](https://github.com/PR4X15/go_calc) - Simple go calculator app (1 day ago)
+- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (2 days ago)
+- [PR4X15/.github](https://github.com/PR4X15/.github) - Description (2 days ago)
+- [PR4X15/go_calc](https://github.com/PR4X15/go_calc) - Simple go calculator app (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -42,9 +42,9 @@ Work in Progress
 
 #### ⭐ Recent Stars
 
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (5 days ago)
-- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (5 days ago)
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A minimal CMS, purposefully built specifically for blogging needs (5 days ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (6 days ago)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (6 days ago)
+- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A minimal CMS, purposefully built specifically for blogging needs (6 days ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (3 months ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (3 months ago)
 
