@@ -16,9 +16,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (6 days ago)
-- [PR4X15/.github](https://github.com/PR4X15/.github) - Description (6 days ago)
-- [PR4X15/go_calc](https://github.com/PR4X15/go_calc) - Simple go calculator app (6 days ago)
+- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (1 week ago)
+- [PR4X15/.github](https://github.com/PR4X15/.github) - Description (1 week ago)
+- [PR4X15/go_calc](https://github.com/PR4X15/go_calc) - Simple go calculator app (1 week ago)
 
 #### 🌱 My latest projects
 
