@@ -30,9 +30,9 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
+- [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (today)
 - [chore(validator): enforcing commit message character limit to 50.](https://github.com/Weburz/crisp/pull/25) on [Weburz/crisp](https://github.com/Weburz/crisp) (today)
 - [chore: replaced dead link in spec-sheet.md](https://github.com/Weburz/terox/pull/6) on [Weburz/terox](https://github.com/Weburz/terox) (4 months ago)
-- [chore: configured project with initial nuxt pages](https://github.com/Sagar-Kap/sagarkapoor/pull/160) on [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) (7 months ago)
 
 #### 📓 Gists I wrote
 
