@@ -18,7 +18,7 @@ Work in Progress
 
 - [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (1 week ago)
 - [PR4X15/.github](https://github.com/PR4X15/.github) - Description (1 week ago)
-- [PR4X15/go_calc](https://github.com/PR4X15/go_calc) - Simple go calculator app (1 week ago)
+- [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (7 months ago)
 
 #### 🌱 My latest projects
 
