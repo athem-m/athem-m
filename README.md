@@ -16,8 +16,8 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (1 week ago)
-- [PR4X15/.github](https://github.com/PR4X15/.github) - Description (1 week ago)
+- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (2 weeks ago)
+- [PR4X15/.github](https://github.com/PR4X15/.github) - Description (2 weeks ago)
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects (7 months ago)
 
 #### 🌱 My latest projects
@@ -30,8 +30,8 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (5 days ago)
-- [chore(validator): enforcing commit message character limit to 50.](https://github.com/Weburz/crisp/pull/25) on [Weburz/crisp](https://github.com/Weburz/crisp) (5 days ago)
+- [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (6 days ago)
+- [chore(validator): enforcing commit message character limit to 50.](https://github.com/Weburz/crisp/pull/25) on [Weburz/crisp](https://github.com/Weburz/crisp) (6 days ago)
 - [chore: replaced dead link in spec-sheet.md](https://github.com/Weburz/terox/pull/6) on [Weburz/terox](https://github.com/Weburz/terox) (4 months ago)
 
 #### 📓 Gists I wrote
