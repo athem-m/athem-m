@@ -16,9 +16,9 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (4 days ago)
-- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (2 weeks ago)
-- [PR4X15/.github](https://github.com/PR4X15/.github) - Description (2 weeks ago)
+- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (5 days ago)
+- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (3 weeks ago)
+- [PR4X15/.github](https://github.com/PR4X15/.github) - Description (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [chore(docs): updated documentation with proper technologies used](https://github.com/Weburz/burzcontent/pull/16) on [Weburz/burzcontent](https://github.com/Weburz/burzcontent) (5 days ago)
+- [chore(docs): updated documentation with proper technologies used](https://github.com/Weburz/burzcontent/pull/16) on [Weburz/burzcontent](https://github.com/Weburz/burzcontent) (6 days ago)
 - [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (1 week ago)
 - [chore(validator): enforcing commit message character limit to 50.](https://github.com/Weburz/crisp/pull/25) on [Weburz/crisp](https://github.com/Weburz/crisp) (1 week ago)
 
