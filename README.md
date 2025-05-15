@@ -42,9 +42,9 @@ Work in Progress
 
 #### ⭐ Recent Stars
 
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 months ago)
-- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 months ago)
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (2 months ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (3 months ago)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (3 months ago)
+- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (3 months ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (6 months ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (6 months ago)
 
