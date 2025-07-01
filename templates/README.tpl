@@ -6,15 +6,6 @@
 -->
 Work in Progress
 
-1. **Lorem ipsum dolor sit amet, consectetur adipiscing elit.** Duis vehicula urna et nisi fermentum, ut laoreet magna vestibulum.
-
-2. **Vestibulum euismod turpis id sapien volutpat, in viverra odio dictum.** Nulla facilisi, sed dignissim purus viverra at.
-
-3. **Aliquam erat volutpat.** Praesent euismod justo sed elit consequat, at commodo odio dapibus.
-
-4. **Morbi nec turpis nec lectus feugiat hendrerit.** Integer facilisis dolor at risus aliquet, sed tincidunt lacus ornare.
-
-5. **Sed ut suscipit nunc.** Quisque cursus quam id eros tempus, vitae efficitur libero gravida.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
@@ -26,14 +17,14 @@ Work in Progress
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-<!-- #### 🔭 Latest releases I've contributed to
-{{range recentReleases 3}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}} -->
-
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### 🔭 Latest releases I've contributed to
+{{range recentReleases 3}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 📓 Gists I wrote
