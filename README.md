@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="assets/cat.gif" width="260">
 
 Work in Progress
 
