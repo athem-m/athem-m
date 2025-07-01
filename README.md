@@ -4,15 +4,6 @@
 
 Work in Progress
 
-1. **Lorem ipsum dolor sit amet, consectetur adipiscing elit.** Duis vehicula urna et nisi fermentum, ut laoreet magna vestibulum.
-
-2. **Vestibulum euismod turpis id sapien volutpat, in viverra odio dictum.** Nulla facilisi, sed dignissim purus viverra at.
-
-3. **Aliquam erat volutpat.** Praesent euismod justo sed elit consequat, at commodo odio dapibus.
-
-4. **Morbi nec turpis nec lectus feugiat hendrerit.** Integer facilisis dolor at risus aliquet, sed tincidunt lacus ornare.
-
-5. **Sed ut suscipit nunc.** Quisque cursus quam id eros tempus, vitae efficitur libero gravida.
 
 #### 👷 Check out what I'm currently working on
 
@@ -26,13 +17,14 @@ Work in Progress
 - [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book
 - [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo
 
-
-
 #### 🔨 My recent Pull Requests
 
 - [chore(docs): updated documentation with proper technologies used](https://github.com/Weburz/burzcontent/pull/16) on [Weburz/burzcontent](https://github.com/Weburz/burzcontent) (3 months ago)
 - [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (4 months ago)
 - [chore(validator): enforcing commit message character limit to 50.](https://github.com/Weburz/crisp/pull/25) on [Weburz/crisp](https://github.com/Weburz/crisp) (4 months ago)
+
+#### 🔭 Latest releases I've contributed to
+
 
 #### 📓 Gists I wrote
 
