@@ -16,7 +16,6 @@ Work in Progress
 - [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book
 - [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo
 
-#### 🔭 Latest releases I've contributed to
 
 
 #### 🔨 My recent Pull Requests
