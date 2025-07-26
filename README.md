@@ -21,8 +21,8 @@ Work in Progress
 #### 🔨 My recent Pull Requests
 
 - [chore(docs): updated documentation with proper technologies used](https://github.com/Weburz/burzcontent/pull/16) on [Weburz/burzcontent](https://github.com/Weburz/burzcontent) (4 months ago)
-- [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (4 months ago)
-- [chore(validator): enforcing commit message character limit to 50.](https://github.com/Weburz/crisp/pull/25) on [Weburz/crisp](https://github.com/Weburz/crisp) (4 months ago)
+- [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (5 months ago)
+- [chore(validator): enforcing commit message character limit to 50.](https://github.com/Weburz/crisp/pull/25) on [Weburz/crisp](https://github.com/Weburz/crisp) (5 months ago)
 
 #### 📓 Gists I wrote
 
