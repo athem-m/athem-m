@@ -20,7 +20,7 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [chore: updated docs to show correct setup methods for crisp](https://github.com/Weburz/crisp/pull/58) on [Weburz/crisp](https://github.com/Weburz/crisp) (3 days ago)
+- [chore: updated docs to show correct setup methods for crisp](https://github.com/Weburz/crisp/pull/58) on [Weburz/crisp](https://github.com/Weburz/crisp) (4 days ago)
 - [chore(docs): updated documentation with proper technologies used](https://github.com/Weburz/burzcontent/pull/16) on [Weburz/burzcontent](https://github.com/Weburz/burzcontent) (5 months ago)
 - [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (5 months ago)
 
@@ -35,8 +35,8 @@ Work in Progress
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (6 months ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (6 months ago)
 - [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (6 months ago)
-- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (9 months ago)
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (9 months ago)
+- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (10 months ago)
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (10 months ago)
 
 
 #### 💬 Feedback
