@@ -6,7 +6,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (6 months ago)
+- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (6 months ago)
 - [PR4X15/.github](https://github.com/PR4X15/.github) - Description (6 months ago)
 - [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (6 months ago)
 
@@ -21,7 +21,7 @@ Work in Progress
 #### 🔨 My recent Pull Requests
 
 - [chore: updated docs to show correct setup methods for crisp](https://github.com/Weburz/crisp/pull/58) on [Weburz/crisp](https://github.com/Weburz/crisp) (2 weeks ago)
-- [chore(docs): updated documentation with proper technologies used](https://github.com/Weburz/burzcontent/pull/16) on [Weburz/burzcontent](https://github.com/Weburz/burzcontent) (6 months ago)
+- [chore(docs): updated documentation with proper technologies used](https://github.com/Weburz/burzpage/pull/16) on [Weburz/burzpage](https://github.com/Weburz/burzpage) (6 months ago)
 - [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (6 months ago)
 
 #### 📓 Gists I wrote
@@ -34,7 +34,7 @@ Work in Progress
 
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (6 months ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (6 months ago)
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (6 months ago)
+- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (6 months ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (10 months ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (10 months ago)
 
