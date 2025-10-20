@@ -6,15 +6,15 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
+- [athem-m/Discussions](https://github.com/athem-m/Discussions) - Central repository for discussions. (today)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (7 months ago)
 - [PR4X15/.github](https://github.com/PR4X15/.github) - Description (8 months ago)
-- [PR4X15/Discussions](https://github.com/PR4X15/Discussions) - A repository for discussions. (8 months ago)
 
 #### 🌱 My latest projects
 
+- [athem-m/Discussions](https://github.com/athem-m/Discussions) - Central repository for discussions.
 - [athem-m/My-Projects](https://github.com/athem-m/My-Projects) - Repository with links to my projects
 - [athem-m/dodger_game](https://github.com/athem-m/dodger_game) - Dodger game made from inventwithpython book
-- [athem-m/Misc](https://github.com/athem-m/Misc) - Misc repo
 
 
 
