@@ -6,7 +6,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [athem-m/Discussions](https://github.com/athem-m/Discussions) - Central repository for discussions. (3 days ago)
+- [athem-m/Discussions](https://github.com/athem-m/Discussions) - Central repository for discussions. (4 days ago)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (7 months ago)
 - [PR4X15/.github](https://github.com/PR4X15/.github) - Description (8 months ago)
 
@@ -22,7 +22,7 @@ Work in Progress
 
 - [chore: updated docs to show correct setup methods for crisp](https://github.com/Weburz/crisp/pull/58) on [Weburz/crisp](https://github.com/Weburz/crisp) (2 months ago)
 - [chore(docs): updated documentation with proper technologies used](https://github.com/Weburz/burzpage/pull/16) on [Weburz/burzpage](https://github.com/Weburz/burzpage) (7 months ago)
-- [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (7 months ago)
+- [chore(contribution.md): fixed a minor syntax error.](https://github.com/Weburz/.github/pull/1) on [Weburz/.github](https://github.com/Weburz/.github) (8 months ago)
 
 #### 📓 Gists I wrote
 
