@@ -7,7 +7,7 @@ Work in Progress
 #### 👷 Check out what I'm currently working on
 
 - [athem-m/Discussions](https://github.com/athem-m/Discussions) - Central repository for discussions. (3 months ago)
-- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (10 months ago)
+- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (11 months ago)
 - [PR4X15/.github](https://github.com/PR4X15/.github) - Description (11 months ago)
 
 #### 🌱 My latest projects
