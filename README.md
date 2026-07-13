@@ -20,7 +20,7 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [chore: updated docs to show correct setup methods for crisp](https://github.com/weburz/crisp/pull/58) on [weburz/crisp](https://github.com/weburz/crisp) (10 months ago)
+- [chore: updated docs to show correct setup methods for crisp](https://github.com/weburz/crisp/pull/58) on [weburz/crisp](https://github.com/weburz/crisp) (11 months ago)
 - [chore(contribution.md): fixed a minor syntax error.](https://github.com/weburz/.github/pull/1) on [weburz/.github](https://github.com/weburz/.github) (1 year ago)
 - [chore(validator): enforcing commit message character limit to 50.](https://github.com/weburz/crisp/pull/25) on [weburz/crisp](https://github.com/weburz/crisp) (1 year ago)
 
