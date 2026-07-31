@@ -20,9 +20,9 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [Fix build errors and update themes with minor bug fixes](https://github.com/vanam-san/vanam-erudite2/pull/5) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (today)
-- [Revamp frontend design with unified tags, layouts, and animations](https://github.com/vanam-san/vanam-erudite2/pull/4) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (today)
-- [chore: updated docs to show correct setup methods for crisp](https://github.com/weburz/crisp/pull/58) on [weburz/crisp](https://github.com/weburz/crisp) (11 months ago)
+- [Fix build errors and update themes in project](https://github.com/vanam-san/vanam-erudite2/pull/7) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (today)
+- [Fix build errors and update themes in project](https://github.com/vanam-san/vanam-erudite2/pull/6) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (today)
+- [Fix build errors and update themes with minor bug fixes](https://github.com/vanam-san/vanam-erudite2/pull/5) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (1 day ago)
 
 #### 📓 Gists I wrote
 
