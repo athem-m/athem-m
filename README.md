@@ -20,9 +20,9 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [Dev](https://github.com/vanam-san/vanam-erudite2/pull/9) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (today)
-- [Fix build errors, update themes, and improve documentation](https://github.com/vanam-san/vanam-erudite2/pull/8) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (today)
-- [Fix build errors and update themes in project](https://github.com/vanam-san/vanam-erudite2/pull/7) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (today)
+- [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite2/pull/10) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (today)
+- [Dev](https://github.com/vanam-san/vanam-erudite2/pull/9) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (1 day ago)
+- [Fix build errors, update themes, and improve documentation](https://github.com/vanam-san/vanam-erudite2/pull/8) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (1 day ago)
 
 #### 📓 Gists I wrote
 
