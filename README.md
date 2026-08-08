@@ -6,7 +6,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) - A customized blogging theme based on astro-erudite v2.0. (5 days ago)
+- [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) - A customized blogging theme based on astro-erudite v2.0. (6 days ago)
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite. (2 months ago)
 - [vanam-san/Discussions](https://github.com/vanam-san/Discussions) - Central repository for discussions. (9 months ago)
 
@@ -20,8 +20,8 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite2/pull/11) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (5 days ago)
-- [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite2/pull/10) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (6 days ago)
+- [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite2/pull/11) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (6 days ago)
+- [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite2/pull/10) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (1 week ago)
 - [Dev](https://github.com/vanam-san/vanam-erudite2/pull/9) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (1 week ago)
 
 #### 📓 Gists I wrote
@@ -32,8 +32,8 @@ Work in Progress
 
 #### ⭐ Recent Stars
 
-- [weburz/crisp](https://github.com/weburz/crisp) - A linter for Git commit messages (1 year ago)
-- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 year ago)
+- [weburz/crisp](https://github.com/weburz/crisp) - A linter for Git commit messages (2 years ago)
+- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 years ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 years ago)
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup (2 years ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 years ago)
