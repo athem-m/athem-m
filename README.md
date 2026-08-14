@@ -22,7 +22,7 @@ Work in Progress
 
 - [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite2/pull/11) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (1 week ago)
 - [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite2/pull/10) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (1 week ago)
-- [Dev](https://github.com/vanam-san/vanam-erudite2/pull/9) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (1 week ago)
+- [Dev](https://github.com/vanam-san/vanam-erudite2/pull/9) on [vanam-san/vanam-erudite2](https://github.com/vanam-san/vanam-erudite2) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
