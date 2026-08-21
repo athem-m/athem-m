@@ -6,7 +6,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (5 days ago)
+- [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (6 days ago)
 - [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite. (2 months ago)
 - [vanam-san/Discussions](https://github.com/vanam-san/Discussions) - Central repository for discussions. (10 months ago)
 
@@ -20,9 +20,9 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite/pull/14) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (5 days ago)
-- [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite/pull/13) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (5 days ago)
-- [Add auto tagging and release workflow](https://github.com/vanam-san/vanam-erudite/pull/12) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (5 days ago)
+- [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite/pull/14) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (6 days ago)
+- [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite/pull/13) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (6 days ago)
+- [Add auto tagging and release workflow](https://github.com/vanam-san/vanam-erudite/pull/12) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (6 days ago)
 
 #### 📓 Gists I wrote
 
