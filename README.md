@@ -6,15 +6,15 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
+- [vanam-san/resume-brag-doc-typst](https://github.com/vanam-san/resume-brag-doc-typst) - A Typst-powered resume and brag doc template for engineers and other technical professionals. (today)
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (1 week ago)
 - [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite. (2 months ago)
-- [vanam-san/Discussions](https://github.com/vanam-san/Discussions) - Central repository for discussions. (10 months ago)
 
 #### 🌱 My latest projects
 
+- [vanam-san/resume-brag-doc-typst](https://github.com/vanam-san/resume-brag-doc-typst) - A Typst-powered resume and brag doc template for engineers and other technical professionals.
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0.
 - [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite.
-- [vanam-san/Discussions](https://github.com/vanam-san/Discussions) - Central repository for discussions.
 
 
 
