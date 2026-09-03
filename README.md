@@ -6,7 +6,7 @@ Work in Progress
 
 #### 👷 Check out what I'm currently working on
 
-- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) -  (2 days ago)
+- [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) -  (3 days ago)
 - [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) - A customized blogging theme based on astro-erudite v2.0. (2 weeks ago)
 - [vanam-san/vanam-erudite-old](https://github.com/vanam-san/vanam-erudite-old) - A customized blogging theme based on astro-erudite. (2 months ago)
 
@@ -20,8 +20,8 @@ Work in Progress
 
 #### 🔨 My recent Pull Requests
 
-- [Revise README for public template and simplify code comments](https://github.com/vanam-san/resume-bragdoc-template/pull/2) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (2 days ago)
-- [Add code of conduct and contributing guidelines, update README](https://github.com/vanam-san/resume-bragdoc-template/pull/1) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (3 days ago)
+- [Revise README for public template and simplify code comments](https://github.com/vanam-san/resume-bragdoc-template/pull/2) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (3 days ago)
+- [Add code of conduct and contributing guidelines, update README](https://github.com/vanam-san/resume-bragdoc-template/pull/1) on [vanam-san/resume-bragdoc-template](https://github.com/vanam-san/resume-bragdoc-template) (4 days ago)
 - [Fix bugs, update themes, and enhance playground features](https://github.com/vanam-san/vanam-erudite/pull/14) on [vanam-san/vanam-erudite](https://github.com/vanam-san/vanam-erudite) (2 weeks ago)
 
 #### 📓 Gists I wrote
